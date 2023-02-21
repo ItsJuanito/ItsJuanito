@@ -1,6 +1,6 @@
 # Juan Zaragoza 👋
 
-I'm a first generation college graduate who has a strong passion for creating Full Stack Web Applications and Big Data Pipelines. All of my coding projects are built and designed from the bottom up containing workflow diagrams, links to deployed sites, and readable documentation. Most of my projects are personal projects; however, I have also worked closely with other developers on course related and non-course related projects.
+I'm a first generation college graduate who has a strong passion for creating Full Stack Web Applications, REST APIs, and Big Data Pipelines. All of my coding projects are built and designed from the bottom up containing workflow diagrams, links to deployed sites, and readable documentation. Most of my projects are personal projects; however, I have also worked closely with other developers on course related and non-course related projects.
 
 
 ---
